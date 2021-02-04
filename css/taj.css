@@ -1,0 +1,267 @@
+body{
+			background-color: #f2f2f2;
+		}
+		*{
+			margin: 0px;
+			padding: 0px;
+		}
+		.header{
+            background-color: white;
+            width: 100%;
+            height: 45px;
+		}
+		.logo{
+			margin-top: 3px;
+           margin-left: 74px;
+           width: 55px;
+           height: 37px;
+		}
+		.menu{
+			margin-top: -45px;
+            margin-left: 113px;
+            color: #4a4a4a;
+		}
+		.menu a{
+			text-decoration: none;
+			font-size: 15px;
+			font-family: monospace;
+			color: #4a4a4a;
+			font-weight: bold;
+			line-height: 50px;
+			margin: 11px;
+		}
+		.banner{
+          border: 0px solid;
+          width: 100%;
+          height: 200px;
+          float: left;
+           margin-top: -37px;
+         margin-left: -1px;
+		}
+		.bannerfont{
+			margin-left: 669px;
+           font-size: 49px;
+           color: white;
+           margin-top: -100px;
+		}
+		.bannerfont2{
+			margin-left: 26px;
+            font-size: 20px;
+            color: white;
+            margin-top: 6px;
+		}
+		.heading{
+			margin-left: 125px;
+            margin-top: 740px;
+            font-size: 24px;
+            font-weight: 600;
+            font-family: sans-serif;
+
+		}
+		.heading2{
+			margin-left: 114px;
+            margin-top: 599px;
+            margin-bottom: -25px;
+           font-size: 24px;
+           font-weight: 600;
+           font-family: sans-serif;
+
+		}
+		.poster{
+			border: 0px solid;
+            float: left;
+             margin-top: 403px;
+             width: 704px;
+            height: 146px;
+            background-color: rgba(74, 74, 74, 0.05);
+            padding: 20px;
+		}
+		.poster2{
+			border: 0px solid;
+            width: 445px;
+            height: 146px;
+            float: left;
+            margin: 3px;
+            margin-left: 724px;
+            margin-top: -154px;
+            padding: 20px;
+             background-color: rgba(74, 74, 74, 0.05);
+		}
+		.poster3{
+			border: 0px solid;
+           width: 300px;
+           height: 442px;
+            float: left;
+            margin: 29px;
+             margin-left: -20px;
+           margin-top: 68px;
+           padding: 14px;
+            background-color: white;
+		}
+		.poster4{
+			border: 0px solid;
+            width: 403px;
+           height: 497px;
+           float: left;
+            margin: 36px;
+            margin-left: -25px;
+            margin-top: 68px;
+           padding: 21px;
+            background-color: white;
+		}
+		.post2image{
+			margin-left: 20px;
+			 margin-top: -14px;
+		}
+		.posterfont{
+			font-family: monospace;
+			font-size: 30px;
+			font-weight: 300;
+			line-height: 0.5;
+			word-spacing: -10px;
+		}
+		.posterfont2{
+			font-size: 1rem;
+			font-weight: 200;
+			line-height: 1.5;
+		}
+		.posterfont3{
+			font-size: 16px;
+			margin-left: 13px;
+            text-align: center;
+            float: left;
+		}
+		.image{
+			width: 300px;
+            height: 400px;
+		}
+		.image2{
+			width: 416px;
+			height: 379px;
+		}
+		.poster a{
+            text-decoration: none;
+            font-size: 18px; 
+            font-weight: 100;
+            color: blue; 
+            font-weight: lighter;
+		}
+		.poster2 a{
+            text-decoration: none;
+            font-size: 17px; 
+            font-weight: 100;
+            color: blue; 
+            font-weight: lighter;
+		}
+		.poster3 a{
+            text-decoration: none;
+            font-size: 17px; 
+            font-weight: 100;
+            color: blue; 
+            font-weight: lighter;
+		}
+		.poster4 a{
+            text-decoration: none;
+            font-size: 17px; 
+            font-weight: 100;
+            color: blue; 
+            font-weight: lighter;
+		}
+		.anchor{
+			text-decoration: none;
+			font-size: 20px;
+			color: lightblue;
+			font-weight: bold;
+			margin-left: 43px;
+			line-height: 50px;
+			}
+		.footer{
+            background-color: #f5f5f5;
+            width: 100%;
+            height: 1600px;
+            margin-top: 355px;
+		}
+		.divfoot{
+			border: 0px solid;
+           float: left;
+           margin: -57px;
+            margin-top: 0px;
+            width: 265px;
+            height: 220px;
+            margin-left: 113px;
+            padding: 16px;
+		}
+		.divfoot2{
+			border: 0px solid;
+            float: left;
+            margin: -99px;
+            margin-top: 0px;
+            width: 198px;
+            height: 470px;
+            margin-left: 89px;
+            padding: 16px;
+		}
+		.font{
+			font-size: 16px;
+			color: #7f7f7f;
+		}
+		.info{
+			font-size: 18px;
+			color: #7f7f7f;
+			margin-top: -4px;
+			padding: 78px;
+		}
+		.info a{
+			text-decoration: none;
+			color: #3c8cf0;
+		}
+		.about{
+			border: 0px solid;
+           float: left;
+           margin: -30px;
+            margin-top: 140px;
+            width: 265px;
+            height: 220px;
+            margin-left: 14px;
+            padding: 16px;
+		}
+		.about2{
+			border: 0px solid;
+           float: left;
+           margin: -308px;
+            margin-top: 140px;
+            width: 265px;
+            height: 220px;
+            margin-left: 217px;
+            padding: 16px;
+		}
+		.download{
+			border: 0px solid;
+           float: left;
+            margin: -30px;
+           margin-top: 385px;
+           width: 265px;
+            height: 73px;
+           margin-left: -704px;
+            padding: 16px;
+		}
+		.download1{
+			border: 0px solid;
+           float: left;
+            margin: -30px;
+           margin-top: 385px;
+           width: 265px;
+            height: 73px;
+           margin-left: -340px;
+            padding: 16px;
+		}
+		.download2{
+			border: 0px solid;
+           float: left;
+            margin: -30px;
+           margin-top: 385px;
+           width: 265px;
+            height: 73px;
+           margin-left: 33px;
+            padding: 16px;
+		}

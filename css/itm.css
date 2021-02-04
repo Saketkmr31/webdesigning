@@ -1,0 +1,46 @@
+.a{
+	color: red;
+}
+.b{
+	color: blue;
+}
+p.dotted {
+    border-style: dotted;
+    
+} 
+p.dash{border-style: dashed;
+border-top-style: solid;
+border-bottom-style: solid;
+border-top-width: 30px;
+border-bottom-color: red;}
+p.dashed {border-style: dashed;}
+p.solid {border-style: solid;}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+p.ridge {border-style: ridge;}
+p.inset {border-style: inset;}
+p.outset {border-style: outset;}
+p.none {border-style: none;}
+p.hidden {border-style: hidden;}
+p.mix {border-style: dotted dashed solid double;
+}
+
+.submit{
+	width: 77px;
+    height: 32px;
+    background: orange;
+    color: white;
+    border: hidden;
+}
+.poster{
+			border: 1px solid;
+    float: left;
+    margin: 8px;
+    margin-top: 27px;
+    width: 230px;
+    height: 340px;
+    border-bottom-left-radius: 71.9px;
+    border-top-left-radius: 74.9px;
+    border-bottom-right-radius: 485px;
+    border-top-right-radius: 0px;
+		}
